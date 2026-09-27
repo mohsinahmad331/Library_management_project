@@ -63,22 +63,22 @@
 ## Screenshots
 
 ### Main Menu
-![MAIN MENU](main_menu.png)
+![MAIN MENU](screenshots/main_menu.png)
 
  ### Add Books
-![ADD BOOKS](add_books.png)
+![ADD BOOKS](screenshots/add_books.png)
 
 ### Display Books
-![DISPLAY BOOKS](display.png)
+![DISPLAY BOOKS](screenshots/display.png)
 
 ### Issue Book
-![ISSUE BOOK](issue_book.png)
+![ISSUE BOOK](screenshots/issue_book.png)
 
 ### Return Book
-![RETURN BOOK](return_book.png)
+![RETURN BOOK](screenshots/return_book.png)
 
 ### Search Book
-![SEARCH BOOK](search.png)
+![SEARCH BOOK](screenshots/search.png)
 
 ### Library Statistics
-![LIBRARY STATISTICS](statistics.png)
+![LIBRARY STATISTICS](screenshots/statistics.png)
